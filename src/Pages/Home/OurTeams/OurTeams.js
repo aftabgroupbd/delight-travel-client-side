@@ -11,7 +11,7 @@ const OurTeams = () => {
                     <Row xs={1} md={4} className="g-4">
                         <Col>
                             <Card>
-                                <Card.Img variant="top" src="http://themes.codezion.com/angular/toor/assets/images/agent-3.jpg" />
+                                <Card.Img variant="top" src="https://i.ibb.co/cJXHcP3/agent-3.jpg" />
                                 <Card.Body>
                                     <Card.Title>Mikal clark</Card.Title>
                                     <Card.Text>
@@ -22,7 +22,7 @@ const OurTeams = () => {
                         </Col>
                         <Col>
                             <Card>
-                                <Card.Img variant="top" src="http://themes.codezion.com/angular/toor/assets/images/agent-4.jpg" />
+                                <Card.Img variant="top" src="https://i.ibb.co/HF5csHt/agent-4.jpg" />
                                 <Card.Body>
                                     <Card.Title>Jhon Jha</Card.Title>
                                     <Card.Text>
@@ -33,7 +33,7 @@ const OurTeams = () => {
                         </Col>
                         <Col>
                             <Card>
-                                <Card.Img variant="top" src="http://themes.codezion.com/angular/toor/assets/images/agent-2.jpg" />
+                                <Card.Img variant="top" src="https://i.ibb.co/kh45Bqx/agent-2.jpg" />
                                 <Card.Body>
                                     <Card.Title>Eachann Jhon</Card.Title>
                                     <Card.Text>
@@ -44,7 +44,7 @@ const OurTeams = () => {
                         </Col>
                         <Col>
                             <Card>
-                                <Card.Img variant="top" src="http://themes.codezion.com/angular/toor/assets/images/agent-1.jpg" />
+                                <Card.Img variant="top" src="https://i.ibb.co/k20xrMc/agent-1.jpg" />
                                 <Card.Body>
                                     <Card.Title>Jhimi</Card.Title>
                                     <Card.Text>
